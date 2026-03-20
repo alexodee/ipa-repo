@@ -1,10 +1,10 @@
 {
-  "name": "Spotify - Alexandreeee",
+  "name": "Spotify - alexandreeeee",
   "apps": [
     {
       "name": "Spotify",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "alexodee",
+      "bundleIdentifier": "com.yodaluca23.SpotCPlusPlus",
+      "developerName": "alexandreeeee",
       "localizedDescription": "Spotify sans pub juste pour vous régaler",
       "iconURL": "https://cdn-icons-png.flaticon.com/512/174/174872.png",
       "versions": [
