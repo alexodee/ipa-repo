@@ -1,11 +1,11 @@
 {
-  "name": "Repo Alexodee",
+  "name": "Spotify - Alexandreeee",
   "apps": [
     {
-      "name": "Spotify ++",
+      "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "alexodee",
-      "localizedDescription": "Spotify amélioré : sans pub, skips illimités, meilleure qualité audio et tweaks QOL.",
+      "localizedDescription": "Spotify sans pub juste pour vous régaler",
       "iconURL": "https://cdn-icons-png.flaticon.com/512/174/174872.png",
       "versions": [
         {
@@ -13,7 +13,7 @@
           "date": "2025-11-21",
           "downloadURL": "https://files.catbox.moe/ugxkcy.ipa",
           "size": 87434699,
-          "description": "Updated Spotify to 9.0.98.\nMore Info: https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.6.3",
+          "description": "Dernière version",
           "minOSVersion": "16.1"
         }
       ]
