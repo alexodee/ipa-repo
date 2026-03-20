@@ -5,18 +5,12 @@
       "name": "Spotify ++",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "alexodee",
-      "localizedDescription": "Spotify amélioré sans pub, skips illimités et plus.",
-      "iconURL": "https://cdn-icons-png.flaticon.com/512/174/174872.png",
-      "versions": [
-        {
-          "version": "2.6.3",
-          "date": "2025-11-21",
-          "downloadURL": "https://files.catbox.moe/ugxkcy.ipa",
-          "size": 87434699,
-          "description": "Updated Spotify to 9.0.98.\nMore Info: https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.6.3",
-          "minOSVersion": "16.1"
-        }
-      ]
+      "version": "2.6.3",
+      "versionDate": "2025-11-21",
+      "versionDescription": "Spotify 9.0.98 updaté",
+      "downloadURL": "https://files.catbox.moe/ugxkcy.ipa",
+      "size": 87434699,
+      "minOSVersion": "16.1"
     }
   ]
 }
