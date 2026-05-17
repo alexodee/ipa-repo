@@ -1,0 +1,39 @@
+{
+  "name": "AppStore - alexandreeeee",
+  "apps": [
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.yodaluca23.SpotCPlusPlus",
+      "developerName": "alexandreeeee",
+      "localizedDescription": "Spotify sans pub juste pour vous régaler",
+      "iconURL": "https://cdn-icons-png.flaticon.com/512/174/174872.png",
+      "versions": [
+        {
+          "version": "2.6.3",
+          "date": "2025-11-21",
+          "downloadURL": "https://files.catbox.moe/ugxkcy.ipa",
+          "size": 87434699,
+          "description": "Dernière version",
+          "minOSVersion": "16.1"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "alexandreeeee",
+      "localizedDescription": "YouTube sans pub juste pour vous régaler",
+      "iconURL": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2025-11-21",
+          "downloadURL": "https://files.catbox.moe/swzk2g.ipa",
+          "size": 121795036,
+          "description": "Dernière version",
+          "minOSVersion": "16.1"
+        }
+      ]
+    }
+  ]
+}
