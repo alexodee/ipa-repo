@@ -22,16 +22,16 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "alexandreeeee",
-      "localizedDescription": "YouTube sans pub juste pour vous régaler",
+      "localizedDescription": "YouTube sans pub juste pour vous régalerr",
       "iconURL": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "20.42.3",
           "date": "2025-11-21",
           "downloadURL": "https://files.catbox.moe/swzk2g.ipa",
           "size": 121795036,
           "description": "Dernière version",
-          "minOSVersion": "16.1"
+          "minOSVersion": "16.0"
         }
       ]
     }
